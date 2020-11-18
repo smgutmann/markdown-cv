@@ -1,91 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sascha Gutmann's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sascha Gutmann, PhD
+Current Senior Principal Scientist at NIBR/Novartis. Drug discovery enthusiast with 12 years of experience in the pharmarceutical industry and with a strong background in protein science. Team leader who loves mentoring fellow-scientists and students.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Address: Hohlstrasse 481, 8048 Zürich  
+E-mail:  sascha_gutmann(at)gmx.ch
 
+## Scientific experience
 
-## Currently
+* Integrated drug discovery and hit-to-lead activities for disease indications in immunology and oncology
+  + Designing and applying screening strategies using biophysical, biochemical and cell-based assays
+  + Mode-of-action identification of hits from phenotypic screens (proximity labeling)
+  + Structure-based drug design
+* Structural biology using X-ray crystallography
+* Protein analysis: Mass spectrometry, Western blotting, NMR, gel electrophoresis
+* Protein production: Expression in mammalian, insect and bacterial cells, purification
+* Molecular biology: Protein enigeering, molecular cloning, PCR, CRISPR genome editing
 
-Standing on the shoulders of giants
+## Leadership experience
 
-### Specialized in
+* Mentoring a great team of protein scientists who work on protein production, biophysical ligand binding assay and structural biology
+* Managing drug discovery projects: Hit finding and hit-to-lead activities
+* Teaching and mentoring Master students
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Computing
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+* Apple, GNU/Linux, Windows operating systems
+* Good understanding of data science workflows in LIMS
+* Basic knowledge in Python and R programming, bash scripting in GNU/Linux
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2000-2004`  
+__PhD in Science (Molecular Biology and Biophysics), ETH Zürich__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`1995-2000`
+__Master in Science (Biochemistry and Molecular Biology), ETH Zürich__
 
 
+## Work history
 
-## Awards
+`2008 - present`
+__NIBR, Novartis Pharma AG, Basel, Switzerland__
 
-`2012`
-President, *Royal Society*, London, UK
+- Current position: Senior Principal Scientist
 
-Associate, *French Academy of Science*, Paris, France
+`2005 - 2008`
+__Paul Scherrer Institute, Villigen, Switzerland__
 
+- NCCR Structural Biology Postdoctoral Fellowship
+
+`2000 - 2005`
+__ETH Zürich, Zürich, Switzerland__
+
+- Roche Research Postdoctoral Fellowship
+- Research Assistant and PhD Student
+
+`2000`
+__Yale University, New Haven, USA__
+
+- Postgraduate Research Associate
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+<!-- A list is also available [online](https://orcid.org/0000-0002-4242-8510) -->
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2020 -->
 
 
