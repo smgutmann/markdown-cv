@@ -2,7 +2,7 @@
 layout: cv
 title: Sascha Gutmann's CV
 ---
-# Sascha Gutmann, PhD
+# Sascha Gutmann, PhD  
 Current Senior Principal Scientist at NIBR/Novartis. Drug discovery enthusiast with 12 years of experience in the pharmarceutical industry and with a strong background in protein science. Team leader who loves mentoring fellow-scientists and students.
 
 Address: Hohlstrasse 481, 8048 Zürich  
@@ -34,7 +34,7 @@ E-mail:  sascha_gutmann(at)gmx.ch
 ## Education
 
 `2000-2004`  
-__PhD in Science (Molecular Biology and Biophysics), ETH Zürich__
+__PhD in Science, ETH Zürich__
 
 `1995-2000`
 __Master in Science (Biochemistry and Molecular Biology), ETH Zürich__
@@ -66,7 +66,7 @@ __Yale University, New Haven, USA__
 
 ## Publications
 
-<!-- A list is also available [online](https://orcid.org/0000-0002-4242-8510) -->
+A list is available [online](https://orcid.org/0000-0002-4242-8510)
 
 
 <!-- ### Footer
