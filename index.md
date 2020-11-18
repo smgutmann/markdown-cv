@@ -33,7 +33,7 @@ E-mail:  sascha_gutmann(at)gmx.ch
 
 ## Education
 
-`2000-2004`  
+`2000-2004`
 __PhD in Science, ETH Zürich__
 
 `1995-2000`
@@ -66,7 +66,7 @@ __Yale University, New Haven, USA__
 
 ## Publications
 
-A list is available [online](https://orcid.org/0000-0002-4242-8510)
+A list is available online on [ORCID](https://orcid.org/0000-0002-4242-8510)
 
 
 <!-- ### Footer
